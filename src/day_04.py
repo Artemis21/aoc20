@@ -1,5 +1,4 @@
 import aoc_helper
-import math, itertools
 
 
 raw = aoc_helper.day(4)

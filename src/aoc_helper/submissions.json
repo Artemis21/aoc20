@@ -70,5 +70,20 @@
                 "That's the right answer!  You are one gold star closer to saving your vacation. You got rank 328 on this star's leaderboard.You have completed Day 4! You can [Shareon\n  Twitter\nMastodon] this victory or [Return to Your Advent Calendar]."
             ]
         }
+    },
+    "5": {
+        "1": {
+            "solution": "963",
+            "963": [
+                "green",
+                "That's the right answer!  You are one gold star closer to saving your vacation. You got rank 292 on this star's leaderboard. [Continue to Part Two]"
+            ]
+        },
+        "2": {
+            "592": [
+                "yellow",
+                "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 5]"
+            ]
+        }
     }
 }
