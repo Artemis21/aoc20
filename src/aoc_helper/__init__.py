@@ -54,11 +54,6 @@ def submit(day, solv_func):
     if day not in submissions:
         submissions[day] = {"1": {}, "2": {}}
 
-    # We won't run the function if we already have the solution.
-    # If solv_func is slow this can save us time when running solution files multiple times.
-    if "solution" in submissions[day][part]:
-        return rich.print(f"Day {day} part {part} has already been solved.  The solution was: {submissions[day][part]['solution']}.")
-
     if (solution :=  solv_func()) is None:  # Our templated code when run will submit empty solutions.  Ignore these.
         return
     solution = str(solution)
