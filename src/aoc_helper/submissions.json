@@ -109,5 +109,53 @@
                 "That's the right answer!  You are one gold star closer to saving your vacation.You have completed Day 6! You can [Shareon\n  Twitter\nMastodon] this victory or [Return to Your Advent Calendar]."
             ]
         }
+    },
+    "7": {
+        "1": {
+            "0": [
+                "red",
+                "That's not the right answer.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 0.) [Return to Day 7]"
+            ],
+            "solution": "142",
+            "142": [
+                "green",
+                "That's the right answer!  You are one gold star closer to saving your vacation. You got rank 541 on this star's leaderboard. [Continue to Part Two]"
+            ]
+        },
+        "2": {
+            "0": [
+                "red",
+                "That's not the right answer.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 0.) [Return to Day 7]"
+            ],
+            "10220": [
+                "red",
+                "That's not the right answer.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 10220.) [Return to Day 7]"
+            ],
+            "solution": "10219",
+            "10219": [
+                "green",
+                "That's the right answer!  You are one gold star closer to saving your vacation. You got rank 676 on this star's leaderboard.You have completed Day 7! You can [Shareon\n  Twitter\nMastodon] this victory or [Return to Your Advent Calendar]."
+            ]
+        }
+    },
+    "8": {
+        "1": {
+            "17": [
+                "red",
+                "That's not the right answer.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 17.) [Return to Day 8]"
+            ],
+            "solution": "1867",
+            "1867": [
+                "green",
+                "That's the right answer!  You are one gold star closer to saving your vacation. [Continue to Part Two]"
+            ]
+        },
+        "2": {
+            "solution": "1303",
+            "1303": [
+                "green",
+                "That's the right answer!  You are one gold star closer to saving your vacation.You have completed Day 8! You can [Shareon\n  Twitter\nMastodon] this victory or [Return to Your Advent Calendar]."
+            ]
+        }
     }
 }
